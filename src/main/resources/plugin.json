@@ -1,0 +1,8 @@
+{
+  "name": "orientdb-metrics-plugin",
+  "version": "1.0",
+  "javaClass": "com.orientechnologies.metrics.OMetricsPluginJava",
+  "parameters": {},
+  "description": "Metrics Plugin",
+  "copyrights": "OrientDB LTD"
+}
